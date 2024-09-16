@@ -1,0 +1,54 @@
+.nav{
+    top: 0;
+    background-color:  rgb(41, 128, 160);
+    color: rgb(241, 244, 246);
+align-items: center;
+justify-content:center;
+    margin-top: 2px
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.box{
+width: 7500px;
+height: 700px;
+margin-left: 15%;
+margin-right: 15%;
+padding: 120px 100px 200px 50px;
+
+}
+.cointainer{
+margin: 100px auto;
+width: 75%;
+background-color: rgb(230, 170, 138);
+color: rgba(13, 13, 13, 0.813);
+
+}
+
+img{
+    max-width: 120px;
+    height: 160px;
+    border-radius: 20px;
+    border: 3px solid rgb(233, 5, 5);
+    margin: 20px;
+    float: left; 
+}
+p{
+    color: white;
+}
+.cointainer p{
+    text-decoration-color: aqua;
+}
+.text h4{
+    color: cadetblue;
+}
+.muo{
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+}
+.paursing{
+    color: aliceblue;
+}
